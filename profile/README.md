@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+Discord serwer: https://discord.gg/fxHBeak3
+
 <!--
 
 **Here are some ideas to get you started:**
